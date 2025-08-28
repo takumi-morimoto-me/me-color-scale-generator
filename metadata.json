@@ -1,0 +1,5 @@
+{
+  "name": "Color Scale Generator",
+  "description": "An application to generate a 10-step color scale from a selected base color. Users can select multiple colors to generate and compare different scales.",
+  "requestFramePermissions": []
+}
